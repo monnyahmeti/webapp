@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap');
+
+
+.hero {
+    background-image: url('https://bitcoinonlineminers.com/assets/img/shape-z.png');
+    background-color: #07071B;
+}
+
+.stats {
+    /*r t u z*/
+    background-image: url('https://bitcoinonlineminers.com/assets/img/shape-r.png');
+    background-repeat: no-repeat;
+    background-color: #fdfdfd;
+}
+
+
+.zgjidhnine {
+    background-color: #07071B;
+}
+
+.cmimet {
+    background-color: #07071B;
+}
+
+.emri-input {
+    box-shadow: inset 0 0 3px 3px rgb(0 0 0 / 2%);
+    border: 2px solid red;
+}
+
+.fillimi-ne {
+    font-size: 20px;
+    font-family: Ubuntu;
+}
+
+.footer {
+    background-image: url('https://toka.b-cdn.net/wp-content/themes/toka/assets/img/bg-black.png');
+    background-color: #07071B;
+}
